@@ -1,20 +1,20 @@
 # Python Automation ⚙️
 
-This repository contains basic automation scripts developed using Python.
+This repository contains simple and practical automation scripts built using Python.
 
-The goal of this repository is to understand how automation can be used
-to simplify repetitive tasks and improve productivity.
+The purpose of this repository is to learn how Python can be used to automate
+repetitive tasks and improve efficiency in everyday workflows.
 
 ---
 
 ## 📌 Topics Covered
-- File handling automation
-- Simple task automation
+- File and folder handling
+- Basic task automation
 - Logic-based Python scripts
 
 ---
 
-## 🚀 Purpose
+## 🎯 Learning Goals
 - Strengthen Python fundamentals
-- Learn practical automation concepts
-- Build a strong base for advanced projects
+- Understand automation concepts
+- Build a base for advanced automation and AI projects
